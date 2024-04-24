@@ -110,7 +110,6 @@ export const personalData = {
   phone: "+919354737083",
   address: "New Delhi, India",
   github: 'https://github.com/Abhi9354',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
   linkedIn: 'https://www.linkedin.com/in/ABHISHEK-kumar-a456281b1/',
   twitter: 'https://twitter.com/BitwiseAbhi',
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
