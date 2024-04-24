@@ -8,7 +8,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://next-portfolio-iota-ten.vercel.app/).
+## View live preview [here](https://next-portfolio-swart-three.vercel.app/).
 
 ---
 
