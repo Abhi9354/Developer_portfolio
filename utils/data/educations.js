@@ -2,7 +2,7 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor Degree",
-    duration: "2023 - Present",
+    duration: "2022 - Present",
     institution: "Bhartiye Vidyapeeth college of Engineering",
   },
   {
